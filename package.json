@@ -114,7 +114,7 @@
     "autosize": "^6.0.1",
     "axe-core": "^4.8.4",
     "downshift": "^7.6.2",
-    "draft-js": "^0.10.5",
+    "draft-js": "^0.11.7",
     "draftail": "^2.0.0-rc.6",
     "draftjs-filters": "^3.0.1",
     "focus-trap-react": "^8.11.3",
